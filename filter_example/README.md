@@ -5,9 +5,10 @@ and are also available in **Jinja2 templates** used by the [template module](htt
 
 ## Why
 
-There are plenty of builtin filters in Ansible, but you might want need to do a data convertion that is not supported. Or, maybe, you are using
-a very long list of filters that makes your playbook less readable, so
-you like to use a single filter with more meaningful name.
+There are [plenty of builtin filters in Ansible](https://docs.ansible.com/ansible/latest/user_guide/playbooks_filters.html),
+but you might want need to do a data convertion that is not supported. Or,
+maybe, you are using a very long list of filters that makes your playbook less
+readable, so you like to use a single filter with more meaningful name.
 
 ## Examples of builtin filters
 
